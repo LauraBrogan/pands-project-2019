@@ -1,7 +1,9 @@
 # Programming and Scripting Project 2019
 ------------------------------------
+<p align="center">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
+I commenced work on 24th March 2019 and complted the task by the due date of April 28th 2019.
 
-This project will look at Ronald Fisher and his Iris data set.  It will investigate the data set and get the ?????
+I struggeld in the early days of the project trying to get python scripts to read athe csv file correctly. This kinda put me off the project a bit initially.  
 
 
 ## Introduction
@@ -23,7 +25,7 @@ These are images of the Iris Flowers for which the data set was created.
 Reference Data set downloaded from  https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv  saved locally as irisdataset.csv
 
 
-[See here for the Project Instructions 2019]()
+[See here for the Project Instructions 2019](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 
 ## My Repositiory can be download from git hub 
 1. Go to Git Hub using the following link (https://github.com/LauraBrogan/pands-project-2019)

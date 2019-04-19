@@ -8,7 +8,7 @@ df = pd.read_csv ("https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a
 #I make the x axis the species axis.
 x = df.species
 #I make the y axis the Sepal Length axis.
-y = df.sepal_length
+y = df.petal_length
 #I call the plot scatter function for the x and y axis.
 plt.scatter(x, y)
 #and display this to the user.

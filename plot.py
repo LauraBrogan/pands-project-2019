@@ -1,16 +1,20 @@
-#This code is to display a scatter diagram of the sepal lenght of the 3 varities of Iris flower. 
+#This code is to display a scatter diagram of the petal lenght of the 3 varities of Iris flower. 
 #I import pands as pd and matplotlib.pyplot as plt. 
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# I read from the csv file Iris.
+# I read from the csv file Iris and call it df.
 df = pd.read_csv ("https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/d546eaee765268bf2f487608c537c05e22e4b221/iris.csv")
+
 #I make the x axis the species axis.
 x = df.species
-#I make the y axis the Sepal Length axis.
+
+#I make the y axis the Petal Length axis.
 y = df.petal_length
+
 #I call the plot scatter function for the x and y axis.
 plt.scatter(x, y)
+
 #and display this to the user.
 plt.show()
 

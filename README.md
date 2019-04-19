@@ -1,5 +1,5 @@
-**# Programming and Scripting Project 2019** 
-------------------------------------
+#** Programming and Scripting Project 2019** 
+***********************************************
 <p align="justify">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
 I commenced work on 24th March 2019 and complted the task by the due date of April 28th 2019.
 
@@ -9,7 +9,7 @@ I struggeld in the early days of the project trying to get python scripts to rea
 
 ## Introduction
 
-<p align="justify">*"R.A. Fisher was born in London on 17 February 1890, the son of a fine-art auctioneer. His twin brother was stillborn. At Harrow School he distinguished himself in mathematics, despite being handicapped by poor eyesight which prevented him working by artificial light. His teachers used to instruct by ear, and Fisher developed a remarkable capacity for pursuing complex mathematical arguments in his head. This manifested itself in later life in his ability to reach a conclusion whilst forgetting the argument; to handle complex geometrical trains of thought; and to develop and report essentially mathematical arguments in English (only for students to have to reconstruct the mathematics later)."*
+<p align="justify"> *"R.A. Fisher was born in London on 17 February 1890, the son of a fine-art auctioneer. His twin brother was stillborn. At Harrow School he distinguished himself in mathematics, despite being handicapped by poor eyesight which prevented him working by artificial light. His teachers used to instruct by ear, and Fisher developed a remarkable capacity for pursuing complex mathematical arguments in his head. This manifested itself in later life in his ability to reach a conclusion whilst forgetting the argument; to handle complex geometrical trains of thought; and to develop and report essentially mathematical arguments in English (only for students to have to reconstruct the mathematics later)."*
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). The data set contains 150 observation of the Iris flowers. Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.  The first four colums are numerical with one decimal place and a text column with the flower name.
 
@@ -21,23 +21,28 @@ These are images of the Iris Flowers for which the data set was created.
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
 
 ## The Data Set CSV File
-This is the csv file data set that I used for this project. 
-Downloaded from (https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
+This is the csv file of the data set that I used for this project. 
+Downloaded from [Here](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
 Saved locally as iris.csv
 
 ## My Repositiory can be download from git hub 
-1. Go to Git Hub using the following link (https://github.com/LauraBrogan/pands-project-2019)
+1. Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/pands-project-2019)
 2. Click the download button
 
 ## Running the Code
-For each of my Python Scripts to you you must:
+For each of my Python Scripts you must:
 1. Make sure you have python installed.
 2. From the comand line interface open the folder pands-project-2019
 3. To run each of the python files you must enter either:
+
  A. python iris.py 
+
  B. python plot.py 
+
  C. isissum.py 
+
  D. boxpl.py into the command line.
+
 4. If the command displays a diagram you must close this first before you can run the next script.
 
 ## What Each File Contains:

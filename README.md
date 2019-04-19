@@ -1,4 +1,4 @@
-#** Programming and Scripting Project 2019** 
+#**Programming and Scripting Project 2019** 
 ***********************************************
 <p align="justify">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
 I commenced work on 24th March 2019 and complted the task by the due date of April 28th 2019.
@@ -35,13 +35,13 @@ For each of my Python Scripts you must:
 2. From the comand line interface open the folder pands-project-2019
 3. To run each of the python files you must enter either:
 
- A. python iris.py 
+        A. python iris.py 
 
- B. python plot.py 
+        B. python plot.py 
 
- C. isissum.py 
+        C. isissum.py 
 
- D. boxpl.py into the command line.
+        D. boxpl.py into the command line.
 
 4. If the command displays a diagram you must close this first before you can run the next script.
 
@@ -53,6 +53,10 @@ I stated with a basic file like this as i was having a lot of difficulty trying 
 B. plot.py
 
 C. irissum.py
+This is the outcome of running the above python script
+![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
+
+
 
 D. boxpl.py
 

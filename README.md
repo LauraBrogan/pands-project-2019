@@ -13,7 +13,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 Sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. 
 
-https://www.academia.edu/13069408/Report_on_Edgar_Anderson_s_Iris_Data_Analysis
+
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
@@ -22,6 +22,12 @@ These are images of the Iris Flowers for which the data set was created.
 ## The Data Set CSV File
 Reference Data set downloaded from  https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv  saved locally as irisdataset.csv
 
+
+[See here for the Project Instructions 2019]()
+
+## My Repositiory can be download from git hub 
+1. Go to Git Hub using the following link (https://github.com/LauraBrogan/pands-project-2019)
+2. Click the download button
 
 ## Running the Code
 For each of my Python Scripts to you you must:
@@ -45,6 +51,7 @@ In addtion I searched on line using some of the following websites:
 
 introduction
 1. https://link.springer.com/referenceworkentry/10.1007%2F978-1-349-58802-2_581
+https://www.academia.edu/13069408/Report_on_Edgar_Anderson_s_Iris_Data_Analysis
 
 https://www.jstor.org/stable/2528392?read-now=1&seq=2#page_scan_tab_contents
 

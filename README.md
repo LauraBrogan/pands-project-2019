@@ -1,4 +1,4 @@
-#**Programming and Scripting Project 2019** 
+# **Programming and Scripting Project 2019**
 ***********************************************
 <p align="justify">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
 I commenced work on 24th March 2019 and complted the task by the due date of April 28th 2019.
@@ -54,7 +54,7 @@ B. plot.py
 
 C. irissum.py
 This is the outcome of running the above python script
-![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
+![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
 
 
@@ -74,6 +74,7 @@ https://www.academia.edu/13069408/Report_on_Edgar_Anderson_s_Iris_Data_Analysis
 https://www.jstor.org/stable/2528392?read-now=1&seq=2#page_scan_tab_contents
 
 Image reference for Iris https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+
 Plot.py file -[]()#Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following
 
 Iris.py file-[ y](w /)#Reference:https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/

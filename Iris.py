@@ -1,5 +1,5 @@
-# Initial Python Code to Just get the first ten lines of the data set returned to screen.
-# To start I import pandas as pd
+#Initial Python Code to Just get the first ten lines of the data set returned to screen.
+#To start I import pandas as pd
 
 import pandas as pd
 
@@ -15,4 +15,4 @@ print(data_top)
 
 #Reference:https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/
 
-# Laura Brogan 19/04/2019
+#Laura Brogan 19/04/2019

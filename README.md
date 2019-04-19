@@ -40,23 +40,27 @@ Reference Data set downloaded from  https://raw.githubusercontent.com/uiuc-cse/d
 
 
 ## Running the Code
+For each of my Python Scripts to you you must:
 1. Make sure you have python installed.
-2. From the comand line interface open the folder pands-problem-set-2019
-3. For each solution to run enter eg. python solution-1.py etc. and follow the prompts.
-4. 
+2. From the comand line interface open the folder pands-project-2019
+3. To run enter each of the python files you must enter A. python iris.py B. python plot.py in the command line.
+4. It the command displays a diagram you must close this first before you can run the next script.
 
 ## What Each File Contains:
+A. Iris.py
+This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
+I stated with a basic file like this as i was having a lot of difficulty trying to get my coding off the ground.
 
 
 
 
 ## References
-I used GMIT Video Lectures by Ian McLoughlin, Class Skype call and notes to complete this work.
+I used GMIT Video Lectures by Ian McLoughlin and class notes to complete this work.
 In addtion I searched on line using some of the following websites:
 
--[]()
+Plot.py file -[]()#Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following
 
--[ y](w /)
+Iris.py file-[ y](w /)#Reference:https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/
 
 -[w e](www e.com)
 

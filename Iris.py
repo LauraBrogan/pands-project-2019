@@ -10,7 +10,6 @@ data = pd.read_csv ("https://gist.githubusercontent.com/curran/a08a1080b88344b0c
 data_top = data.head(10) 
 
 #Then I desplay the data top to the user. 
-
 print(data_top) 
 
 #Reference:https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/

@@ -17,14 +17,17 @@ Sometimes called Anderson’s Iris data set because Edgar Anderson collected the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
 
 ## Summary of My Investigations
-<p align="justify"> >I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
+>I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
 
->I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.</p>
+>I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
+
+>Through summarising the data in the data set, looking at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width.  From the this summary, we can see there is a huge range in the size of the Sepal Length and Petal Length.
+
+>From the boxplot chart analysis, we ca see there are clear differences in the size of the Sepal Length, among the different species. 
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
-
 
 ## Libaries used in this Project
 I Imported: Pandas, Matplotlib, Seaborn.
@@ -65,11 +68,11 @@ For each of my Python Scripts you must:
 This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
 I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/iris.JPG)
+
 It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, and species.
 
 **B. plot.py**
-
-This file condatins the following code 
+This file contains the following code:
 ```python
 #This code is to display a scatter diagram of the petal lenght of the 3 varities of Iris flower. 
 #I import pands as pd and matplotlib.pyplot as plt. 
@@ -98,13 +101,13 @@ plt.show()
 #Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following
 #Laura Brogan 19/04/2019
 ```
-
-
+It makes the data visual in a scatter plot diagram and it is clear to see that the petal length of the setosa is the smallest and the virginica has the largest petal length.
 
 **C. irissum.py**
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
+This script helps to summarise the data set 
 
 
 **D. boxpl.py**

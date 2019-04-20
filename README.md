@@ -17,13 +17,13 @@ Sometimes called Anderson’s Iris data set because Edgar Anderson collected the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
 
 ## Summary of My Investigations
-+I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
++ I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
 
-+I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
++ I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
 
-+Through summarising the data in the data set, looking at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width.  From the this summary, we can see there is a huge range in the size of the Sepal Length and Petal Length.
++ Through summarising the data in the data set, looking at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width.  From the this summary, we can see there is a huge range in the size of the Sepal Length and Petal Length.
 
-+From the boxplot chart analysis, we ca see there are clear differences in the size of the Sepal Length, among the different species. 
++ From the boxplot chart analysis, we can see there are clear differences in the size of the Sepal Length, among the different species. 
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
@@ -31,11 +31,12 @@ These are images of the Iris Flowers for which the data set was created.
 
 ## Libaries used in this Project
 I Imported: Pandas, Matplotlib, Seaborn.
-*Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
 
-*Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+* Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
 
-*Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+* Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+
+* Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 ## The Data Set CSV File
 This is the csv file of the data set that I used for this project. 
@@ -107,12 +108,10 @@ It makes the data visual in a scatter plot diagram and it is clear to see that t
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
-This script helps to summarise the data set 
-
+This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width,
 
 **D. boxpl.py**
-
-
+This pythons script produces a box plot which shows the distribution of the quantitative data for the sepal_length in a way that facilitates comparisons between variables. The box shows the quartiles of the dataset while the whiskers extend to show the rest of the distribution. This allows for the visualisation of the sepal length of each of the three Iris species.
 
 ## References:
 I used GMIT Video Lectures by Ian McLoughlin and class notes to complete this work.

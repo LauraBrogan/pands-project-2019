@@ -17,9 +17,9 @@ Sometimes called Anderson’s Iris data set because Edgar Anderson collected the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
 
 ## Summary of My Investigations
->I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
+<p align="justify"> >I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
 
->I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
+>I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.</p>
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
@@ -68,6 +68,28 @@ I stated with a basic file like this as I was having a lot of difficulty trying 
 It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, and species.
 
 **B. plot.py**
+
+This file condatins the following code 
+'''#This code is to display a scatter diagram of the petal lenght of the 3 varities of Iris flower. 
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv ("https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/d546eaee765268bf2f487608c537c05e22e4b221/iris.csv")
+
+x = df.species
+
+
+y = df.petal_length
+
+plt.scatter(x, y)
+
+title = ("Comparing the Petal Lengths")
+plt.title(title, fontsize=15)
+
+
+plt.show()'''
+
 
 
 **C. irissum.py**

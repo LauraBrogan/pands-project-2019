@@ -17,11 +17,22 @@ Sometimes called Anderson’s Iris data set because Edgar Anderson collected the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
 
 ## Summary of My Investigations
-kkkkkk
+>I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
+
+>I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see the the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
+
+
+## Libaries used in this Project
+I Imported: Pandas, Matplotlib, Seaborn.
+*Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+
+*Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+
+*Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 ## The Data Set CSV File
 This is the csv file of the data set that I used for this project. 
@@ -49,19 +60,23 @@ For each of my Python Scripts you must:
 4. If the command displays a diagram you must close this first before you can run the next script.
 
 ## What Each File Contains:
-A. Iris.py
+**A. iris.py**
+
 This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
-I stated with a basic file like this as i was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
+I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
+![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/iris.JPG)
+It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, and species.
 
-B. plot.py
+**B. plot.py**
 
-C. irissum.py
+
+**C. irissum.py**
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
 
 
-D. boxpl.py
+**D. boxpl.py**
 
 
 
@@ -74,6 +89,8 @@ In addtion I searched on line using some of the following websites:
 -[Report on Edgar Anderson’s Iris Data Analysis](https://www.academia.edu/13069408/Report_on_Edgar_Anderson_s_Iris_Data_Analysis)
 
 -[Jstor](https://www.jstor.org/stable/2528392?read-now=1&seq=2#page_scan_tab_contents)
+
+-[Matplotlibhttps://matplotlib.org/
 
 -*Image* [Medium Basic Analysis of the Iris Data set Using Python](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
 

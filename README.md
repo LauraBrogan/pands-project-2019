@@ -64,7 +64,7 @@ For each of my Python Scripts you must:
 4. If the command displays a diagram you must close this first before you can run the next script.
 
 ## What Each File Contains:
-**A. iris.py**
+###**A. iris.py**###
 
 This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
 I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
@@ -72,7 +72,8 @@ I stated with a basic file like this as I was having a lot of difficulty trying 
 
 It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, and species.
 
-**B. plot.py**
+###**B. plot.py**###
+
 This file contains the following code:
 ```python
 #This code is to display a scatter diagram of the petal lenght of the 3 varities of Iris flower. 
@@ -104,13 +105,15 @@ plt.show()
 ```
 It makes the data visual in a scatter plot diagram and it is clear to see that the petal length of the setosa is the smallest and the virginica has the largest petal length.
 
-**C. irissum.py**
+###**C. irissum.py**###
+
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
 This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width,
 
-**D. boxpl.py**
+###**D. boxpl.py**###
+
 This pythons script produces a box plot which shows the distribution of the quantitative data for the sepal_length in a way that facilitates comparisons between variables. The box shows the quartiles of the dataset while the whiskers extend to show the rest of the distribution. This allows for the visualisation of the sepal length of each of the three Iris species.
 
 ## References:

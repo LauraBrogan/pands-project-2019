@@ -15,6 +15,10 @@ y = df.petal_length
 #I call the plot scatter function for the x and y axis.
 plt.scatter(x, y)
 
+#This gives the plot diagram a title and says what size that title should be in this case 15. 
+title = ("Comparing the Petal Lengths")
+plt.title(title, fontsize=15)
+
 #and display this to the user.
 plt.show()
 

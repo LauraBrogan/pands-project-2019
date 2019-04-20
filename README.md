@@ -16,6 +16,9 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 Sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
 
+## Summary of My Investigations
+kkkkkk
+
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/Images%20of%20the%20Iris%20Species.jpg)
@@ -48,7 +51,7 @@ For each of my Python Scripts you must:
 ## What Each File Contains:
 A. Iris.py
 This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
-I stated with a basic file like this as i was having a lot of difficulty trying to get my coding off the ground.
+I stated with a basic file like this as i was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
 
 B. plot.py
 
@@ -72,16 +75,16 @@ In addtion I searched on line using some of the following websites:
 
 -[Jstor](https://www.jstor.org/stable/2528392?read-now=1&seq=2#page_scan_tab_contents)
 
--*Image*[Medium Basic Analysis of the Iris Data set Using Python](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
+-*Image* [Medium Basic Analysis of the Iris Data set Using Python](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
 
--Iris.py file[Geeks for Geeks](https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/)
+-*Iris.py File* [Geeks for Geeks](https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/)
 
--Plot.py file[Coding Club](https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following)
+-*Plot.py File* [Coding Club](https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following)
 
--Irissum.py File [Coding Git Hub](https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py)
+-*Irissum.py File* [Coding Git Hub](https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py)
 
--boxpl.py[Seaborn](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
+-*Boxpl.py File* [Seaborn](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
 
-For each of the python scripts the specific references are commented in the code, with links to each spicifc part of the above sites which relate to that solution. 
+For each of the python scripts the specific references are commented in the code, with links to each of above sites which relate to that script. 
 
-***Laura Brogan 2019*** 
+***Laura Brogan 20/04/2019*** 

@@ -70,7 +70,7 @@ This file is a basic file to read the csv file and display to the user the top t
 I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/iris.JPG)
 
-It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, and species.
+It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, these columns contain the measurements for the sepal lenght and width and the petal length and width. The last clumn displays the species.
 
 **B. plot.py**
 
@@ -103,7 +103,7 @@ plt.show()
 #Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following
 #Laura Brogan 19/04/2019
 ```
-It makes the data visual in a scatter plot diagram and it is clear to see that the petal length of the setosa is the smallest and the virginica has the largest petal length.
+It makes the data visual in a scatter plot diagram to display the measurements on a diagram of the petal lengths for the three species. It is clear to see that the petal length of the setosa is the smallest and the virginica has the largest petal length.
 
 **C. irissum.py**
 

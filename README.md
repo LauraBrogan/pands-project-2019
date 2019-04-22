@@ -1,9 +1,9 @@
 # **Programming and Scripting Project 2019**
 ***********************************************
 <p align="justify">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
-I commenced work on 25th March 2019 and complted the task by the due date of April 28th 2019.
+I commenced work on 25th March 2019 and completed the task by the due date of April 28th 2019.
 
-I struggeld in the early days of the project trying to get python scripts to read athe csv file correctly. This kinda put me off the project a bit initially.  </p>
+I struggeld in the early days of the project trying to get python scripts to read the csv file correctly. This kinda put me off the project a bit initially.  I over came this and have a completed project although maybe a bit basic.  </p>
 
 [See here for the Project Instructions 2019](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 
@@ -11,10 +11,14 @@ I struggeld in the early days of the project trying to get python scripts to rea
 
 >*<p align="justify"> "R.A. Fisher was born in London on 17 February 1890, the son of a fine-art auctioneer. His twin brother was stillborn. At Harrow School he distinguished himself in mathematics, despite being handicapped by poor eyesight which prevented him working by artificial light. His teachers used to instruct by ear, and Fisher developed a remarkable capacity for pursuing complex mathematical arguments in his head. This manifested itself in later life in his ability to reach a conclusion whilst forgetting the argument; to handle complex geometrical trains of thought; and to develop and report essentially mathematical arguments in English (only for students to have to reconstruct the mathematics later)."*
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). The data set contains 150 observation of the Iris flowers. Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.  The first four colums are numerical with one decimal place and a text column with the flower name.
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
-Sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the
-morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus”. </p>
+Fisher's data set became a typical test case for many statistical classification techniques in machine learning. 
+
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). The data set contains 150 observations of the Iris flowers. Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.  The first four colums are numerical with one decimal place and a text column with the flower species.
+
+>*"Sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the
+morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus."*</p>
 
 ## Summary of My Investigations
 + I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.

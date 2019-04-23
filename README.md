@@ -3,7 +3,9 @@
 <p align="justify">This repository contains my project which will look at Ronald Fishers Iris Flower Data Set.  It will briefly introduce Ronald Fisher and the data set and it will investigate the data set using python scripts as detailed below. This project is for the Programing and Scripting Moudule at GMIT.
 I commenced work on 25th March 2019 and completed the task by the due date of April 28th 2019.
 
-I struggeld in the early days of the project trying to get python scripts to read the csv file correctly. This kinda put me off the project a bit initially.  I over came this and have a completed project although maybe a bit basic.  </p>
+I struggeld in the early days of the project trying to get python scripts to read the csv file correctly. This kinda put me off the project a bit initially.  I could get the scripts to work in ipython but not when I created them in visual studio code and ran them as a .py script.  I kept putting off this project because of my difficutlies at the early stage until i decided on a strategy to over come this and meet the deadline.  I have completed the although it maybe a bit basic. I over came my difficulties by updating the verion of Anaconda that I had installed and I removed some of the modules which I had initially imported to the script and started again until I got the script to work the way I wanted it to.  
+
+From completeing this project and overcoming my initial difficulties, in creating python scripts, I can see that when creating any project of this nature, you must take small steps and work from the basis up. When you can get one or two simple things to work you can build on them to create a more advanced script.</p>
 
 [See here for the Project Instructions 2019](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 

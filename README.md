@@ -124,7 +124,7 @@ This pythons script produces a box plot which shows the distribution of the quan
 
 ## References:
 I used GMIT Video Lectures by Ian McLoughlin and class notes to complete this work.
-In addtion I searched on line using some of the following websites:
+In addtion I searched on line using the following websites:
 
 -[Springer Link](https://link.springer.com/referenceworkentry/10.1007%2F978-1-349-58802-2_581)
 
@@ -134,9 +134,11 @@ In addtion I searched on line using some of the following websites:
 
 -[Matplotlib](https://matplotlib.org/)
 
+-*CSV File* (https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/d546eaee765268bf2f487608c537c05e22e4b221/iris.csv)
+
 -*Image* [Medium Basic Analysis of the Iris Data set Using Python](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)
 
--*Iris.py File* [Geeks for Geeks](https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/)
+-*Iris.py File* [Geeks for Geeks](https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method)
 
 -*Plot.py File* [Coding Club](https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following)
 
@@ -144,6 +146,11 @@ In addtion I searched on line using some of the following websites:
 
 -*Boxpl.py File* [Seaborn](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
 
+
+-(https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py)
+I used this as an approach to my project, while it did not use full python scripts, I adapted some of the research in this to suit my needs.  This work was clear and easier to understand than others I had viewed online. This work gave me an insight into how a detailed readme.md might look like with references etc.  
+
 For each of the python scripts the specific references are commented in the code, with links to each of above sites which relate to that script. 
 
-***Laura Brogan 20/04/2019*** 
+***Laura Brogan 24/04/2019*** 
+

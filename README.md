@@ -23,7 +23,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 morphologic variation of Iris ﬂowers of three related species. Two of the three species were collected in the Gasp´e Peninsula ”all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus."*</p>
 
 ## Summary of My Investigations
-+ I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.
++ I found that using a python script I could get the data set displayed in the command line, I went with the first 10 lines of the data set but this can be changed to any amount of lines from the data set.  I later amended this script to return the fist ten lines and the last ten lines of the data set. 
 
 + I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see that the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
 
@@ -73,10 +73,11 @@ For each of my Python Scripts you must:
 **A. iris.py**
 
 This file is a basic file to read the csv file and display to the user the top ten lines of the data set. 
-I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground.  This is the result of running that script. 
+I stated with a basic file like this as I was having a lot of difficulty trying to get my coding off the ground. Later in the project I amended this script to get it to also return the last 10 lines to the user.
+This is the result of running that script. 
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/iris.JPG)
 
-It displays to us the first ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, these columns contain the measurements for the sepal lenght and width and the petal length and width. The last clumn displays the species.
+It displays to user the first ten lines and the last ten lines of the data set with the five column headings, sepal_length,  sepal_width,  petal_length,  petal_width, these columns contain the measurements for the sepal lenght and width and the petal length and width. The last column displays the species name.
 
 **B. plot.py**
 
@@ -103,7 +104,7 @@ plt.scatter(x, y)
 title = ("Comparing the Petal Lengths")
 plt.title(title, fontsize=15)
 
-#and display this to the user.
+#and displays the diagram to the user.
 plt.show()
 
 #Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following

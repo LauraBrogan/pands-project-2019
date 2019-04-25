@@ -13,7 +13,7 @@ data_top = data.head(10)
 data_bottom = data.tail(10)
 
 #Then I display the data top and data bottom to the user. 
-print(data_top) 
+print(data_top)
 print(data_bottom)
 
 #Reference:https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/

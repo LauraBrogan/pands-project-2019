@@ -19,7 +19,7 @@ plt.scatter(x, y)
 title = ("Comparing the Petal Lengths")
 plt.title(title, fontsize=15)
 
-#and display this to the user.
+#and displays the diagram to the user.
 plt.show()
 
 #Reference:https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html#following

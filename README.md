@@ -150,7 +150,7 @@ In addtion I searched on line using the following websites:
 
 -https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py
 
-I used this as an approach to my project, while it did not use full python scripts, I adapted some of the research in this to suit my needs.  This work was clear and easier to understand than others I had viewed online. This work gave me an insight into how a detailed readme.md might look like with references etc.  
+I used the last link above as an approach to my project, while it did not use full python scripts, I adapted some of the research in this to suit my needs.  This work was clear and easier to understand than others I had viewed online. This work gave me an insight into how a detailed readme.md might look like with references etc.  
 
 For each of the python scripts the specific references are commented in the code, with links to each of above sites which relate to that script. 
 

@@ -27,9 +27,9 @@ morphologic variation of Iris ﬂowers of three related species. Two of the thre
 
 + I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see that the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
 
-+ Through summarising the data in the data set, I could look at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width. We can see there is a huge range in the size of the Sepal Length and Petal Length 3.3cm in the difference.
++ Through summarising the data in the data set, I could look at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width. We can see there is a huge range in the size of the Sepal Length and Petal Length 3.3 in the difference.
 
-+ From the boxplot chart analysis, we can see there are clear differences in the size of the Sepal Length, among the different species. 
++ From the boxplot chart analysis, we can see there are clear differences in the size of the Sepal Length, among the different species. The box plot is a visual aid which allows us clearly see and make comparasions. 
 
 ## What the Iris's Actually look like
 These are images of the Iris Flowers for which the data set was created. 
@@ -117,7 +117,7 @@ It makes the data visual in a scatter plot diagram to display the measurements o
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
-This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width.  This give a clear layout of the measurements and can be easily interpreted.  We can see that the Sepal length spans a range of 3.6  from 7.9 a the max to 4.3 at the min, but the petal length spans a much wider range of 5.9 between all the species from 6.9 at the max to 1.0 min. 
+This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width.  This gives a clear layout of the measurements and can be easily interpreted.  We can see that the Sepal length spans a range of 3.6  from 7.9 at the max to 4.3 at the min, but the petal length spans a much wider range of 5.9 between all the species from 6.9 at the max to 1.0 at the minimum. 
 
 **D. boxpl.py**
 
@@ -148,7 +148,8 @@ In addtion I searched on line using the following websites:
 -*Boxpl.py File* [Seaborn](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
 
 
--(https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py)
+-https://raw.githubusercontent.com/RitRa/Project2018-iris/master/Project%2B2018%2B-%2BFishers%2BIris%2Bdata%2Bset%2Banalysis.py
+
 I used this as an approach to my project, while it did not use full python scripts, I adapted some of the research in this to suit my needs.  This work was clear and easier to understand than others I had viewed online. This work gave me an insight into how a detailed readme.md might look like with references etc.  
 
 For each of the python scripts the specific references are commented in the code, with links to each of above sites which relate to that script. 

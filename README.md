@@ -27,7 +27,7 @@ morphologic variation of Iris ﬂowers of three related species. Two of the thre
 
 + I plotted a scatter diagram to look at the petal lengths of the three Iris species, from this it is easy to see that the setosa has the smallest petal length and the virginica has the longest petal length and that there is not a huge difference between the petal lengths of the virginica and the versicolor.
 
-+ Through summarising the data in the data set, looking at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width. We can see there is a huge range in the size of the Sepal Length and Petal Length.
++ Through summarising the data in the data set, I could look at the mean, standard deviation, min, 25%, 50%, 70% and max of all species based on the sepal_lenth, sepal_width, petal_length and petal_width. We can see there is a huge range in the size of the Sepal Length and Petal Length 3.3cm in the difference.
 
 + From the boxplot chart analysis, we can see there are clear differences in the size of the Sepal Length, among the different species. 
 
@@ -117,7 +117,7 @@ It makes the data visual in a scatter plot diagram to display the measurements o
 This is the outcome of running the above python script
 ![alt text](https://github.com/LauraBrogan/pands-project-2019/blob/master/irissum.JPG)
 
-This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width,
+This script helps to summarise the data set we can see what the mean, min, max, standard deviations values are for the total data set under the headings sepal_length,  sepal_width,  petal_length,  petal_width.  This give a clear layout of the measurements and can be easily interpreted.  We can see that the Sepal length spans a range of 3.6  from 7.9 a the max to 4.3 at the min, but the petal length spans a much wider range of 5.9 between all the species from 6.9 at the max to 1.0 min. 
 
 **D. boxpl.py**
 
